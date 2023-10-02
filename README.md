@@ -43,5 +43,5 @@ didn't use after Zhang data was found
 
 vibrioFiles.R
 =============
-splits the two vibrio species into two separate datasets
-writes mutation files for each species and each condition
+splits the two vibrio species into two separate datasets  
+writes mutation files for each species and each condition  
